@@ -11,6 +11,8 @@ public class Exemplo1_Array {
 		int A[] = new int[n];
 		int B[] = new int[n];
 
+		System.out.println("Alterado via github")
+	
 		for (int i = 0; i < n; i++) {
 			System.out.println("Entre com um valor da posiçao: ");
 			A[i] = scan.nextInt();
